@@ -1,0 +1,29 @@
+name: IO-Ag
+favicon: null
+layout_spectrum: 0.8525562540162355
+typography_spectrum: 0.7347130654379725
+title: Input Ouput Agriculture Platform
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#71A7FE'
+    - '#399AE7'
+    - '#3B407C'
+    - '#547AB1'
+    - '#CEAFC0'
+  brandStrength: 0.0683463194873184
+  lightness: 0.4465513085015118
+  saturation: 0.2875792635604739
+  rhythmicContrast: 0.9583631893619895
+purpose: []
